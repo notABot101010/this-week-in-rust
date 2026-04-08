@@ -53,7 +53,7 @@ and just ask the editors to select the category.
 * [Ply 1.1: Building Polished UIs in Rust](https://plyx.iz.rs/blog/ply-1-1/)
 
 ### Observations/Thoughts
-
+- [Supply chain nightmare: How will Rust be attacked and what we can do to mitigate the inevitable](https://kerkour.com/rust-supply-chain-nightmare)
 - [800 Rust terminal projects in 3 years](https://blog.orhun.dev/800-rust-projects/)
 
 ### Rust Walkthroughs
